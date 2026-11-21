@@ -27,15 +27,6 @@ Uma API que organiza os produtos por categoria, controla o estoque e registra as
 - Não é possível excluir uma categoria que tenha produtos, nem um produto que tenha vendas
 - Não é possível repetir o nome de uma categoria, nem de um produto dentro da mesma categoria
 
-## Tecnologias
-
-- Java 21
-- Spring Boot 4.1.0 (Web, Data JPA, Validation)
-- PostgreSQL
-- Maven
-- Lombok
-- Springdoc OpenAPI (Swagger UI)
-
 ## Estrutura
 
 ```
