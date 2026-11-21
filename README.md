@@ -164,4 +164,4 @@ Resposta: venda com `valorTotal` de `71.80`, e o estoque do produto passa de 10 
 
 ## Autores
 
-Projeto desenvolvido pela dupla: **Nome 1** e **Nome 2**.
+Projeto desenvolvido pelo grupo: **Gabriel Freitas Duarte**, **Tâmily Porto Martins** e **Luan Massuia Iglesias**.
