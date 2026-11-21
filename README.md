@@ -8,7 +8,7 @@ API REST para controle de **estoque e vendas de um bazar**, desenvolvida como pr
 Em um bazar é comum vender uma peça que já acabou ou perder o controle do que ainda resta no estoque. Muitas vezes isso é feito em papel ou planilha, o que gera erros.
 
 ### Solução
-Uma API que organiza os produtos por categoria, controla o estoque e registra as vendas. Ao vender, o estoque é atualizado automaticamente e o sistema impede a venda de itens sem estoque. Como é uma API REST, qualquer aplicação (site, app, planilha) pode consumir esses serviços.
+Uma API que organiza os produtos por categoria, controla o estoque e registra as vendas. Ao vender, o estoque é atualizado automaticamente e o sistema impede a venda de itens sem estoque.
 
 ## Funcionalidades
 
