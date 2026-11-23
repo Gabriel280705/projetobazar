@@ -1,4 +1,4 @@
-# 🛍️ API do Bazar
+# API do Bazar
 
 API REST para controle de **estoque e vendas de um bazar**, desenvolvida como projeto final da disciplina de Arquitetura Orientada a Serviços (Fatec Jales).
 
